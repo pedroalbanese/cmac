@@ -18,7 +18,7 @@
 // tweakable block cipher. Ciphers with 64 bit blocks are
 // supported, but not recommened.
 // CMAC (with AES) is specified in RFC 4493 and RFC 4494.
-package cmac // import "github.com/aead/cmac"
+package cmac // import "github.com/pedroalbanese/cmac"
 
 import (
 	"crypto/cipher"
